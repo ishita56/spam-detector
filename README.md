@@ -1,3 +1,9 @@
+# 📩 Spam Message Detector
+## 🚀 Live Demo
+https://spam-detector-7wugxvxumfcmqzvpa44fk3.streamlit.app/
+
+## 📌 Project Overview
+This is a Machine Learning web app that detects whether a message is Spam or Ham (Not Spam)
 # Spam Detector
 
 ## Tech Stack
